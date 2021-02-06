@@ -112,6 +112,7 @@ ___
 > 1. Variables - A place to store values for your code to manipulate, for the computer to process, etc.:
 
 '''python
+
 you_tube = 'ThisGuyCodez'
 
 print('here is a variable ---->',you_tube) 
