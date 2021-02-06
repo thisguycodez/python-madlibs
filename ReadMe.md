@@ -4,21 +4,18 @@
 > https://youtu.be/EWF32N_JYF0
 
 
-## SYNTAX
+## Tutorial
 	    
 ___
-step 1: 
- >  1. comments - For python, use with a '#' symbol or 3 quotes nesting your comment:
+
+>  1. comments - For python, used with a '#' symbol or 3 quotes nesting your comment:
 
 
-
-```bash
-  -helps explain what the code is doing
+* helps explain what the code is doing
   
-  -great for jogging your memory if you are editing old code
+* great for jogging your memory if you are editing old code
   
-  -helps keep code organized
-'''
+* helps keep code organized
 
 
 > 2. prints - A function Used to send data to the console/terminal/screen:
@@ -28,8 +25,10 @@ step 1:
 * Needed for terminal/CLI based programs
 
 ```python
+
 print('ThisGuyCodez....*')
 print(24)
+
 ```
 
 * FROM NOW ON WE WILL USE PRINT TO DISPLAY OUR VALUES TO THE CONSOLE 
