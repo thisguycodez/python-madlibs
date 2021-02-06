@@ -18,14 +18,16 @@ ___
   
 * helps keep code organized
 
+"""python
 
-'''python
 #This is a comment
+
 '''This is
 a multi line
 comment
 '''
-'''
+
+"""
 
 > 2. prints - A function Used to send data to the console/terminal/screen:
 
