@@ -111,18 +111,17 @@ ___
 
 > 1. Variables - A place to store values for your code to manipulate, for the computer to process, etc.:
 
-'''python
-
+```python
 you_tube = 'ThisGuyCodez'
 
 print('here is a variable ---->',you_tube) 
 
-'''
+```
 
 
 > 2. String concatenation - more than one strings added together[Using the 'Format method']:
 
-'''python
+```python
 name = 'Guy'
 you_tube = 'ThisGuyCodez'
 lang = 'Python'
@@ -133,11 +132,11 @@ concat = "{} talks about	{} on his YT channel '{}'".format(name,lang,you_tube)
 			
 print(concat)
 
-'''
+```
 
 > 3. Inputs - Function used to get data from the user:
 
-'''python
+```python
 """
 Prompt the user by typing in 
 the question the user should see
@@ -158,7 +157,7 @@ nothing we can do with it. Try what we went over so far yourself below
 and remember to save your inputs into variables.
 """
 
-'''		
+```		
 
 
 ___
