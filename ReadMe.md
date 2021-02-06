@@ -109,15 +109,14 @@ of the ones you want to learn in a string...
 ___
 #### test2.py file
 
-
-
 > 1. Variables - A place to store values for your code to manipulate, for the computer to process, etc.:
 
 '''python
 you_tube = 'ThisGuyCodez'
 
 print('here is a variable ---->',you_tube) 
-'''	
+'''
+
 
 > 2. String concatenation - more than one strings added together[Using the 'Format method']:
 
