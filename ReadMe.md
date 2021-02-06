@@ -32,7 +32,7 @@ print(24)
 
 ```
 
-## FROM NOW ON WE WILL USE PRINT TO DISPLAY OUR VALUES TO THE CONSOLE 
+### FROM NOW ON WE WILL USE PRINT TO DISPLAY OUR VALUES TO THE CONSOLE AND COMMENTS TO BE ORGANIZED
 
 
 > 3. Strings, Integers , Floats , and Booleans - Data Types:
@@ -40,18 +40,22 @@ print(24)
 
 * 3a.) String{a sequence of characters within quotes} ...I will print this out below
 ```python
+# printing 2 exmaples of a String
 print('This is a String' , "I'm a string 2")
 ```
 * 3b.) Integer{regular number} solid numbers only(NO COMMAS)...I will print this out below
 ```python
+# printing 2 exmaples of an Integer
 print(24 or 2400)
 ```
 * 3c.) Float{decimals}...I will print this out below
 ```python
+# printing 2 exmaples of a Float
 print(5.1 or 33.33)
 ```
 * 3d.) Boolean{One of the two values - True or False}...I will print this out below
 ```python
+# printing exmaples of a Boolean
 print(True or False)
 ```
 ___
