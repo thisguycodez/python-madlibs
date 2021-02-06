@@ -7,6 +7,7 @@
 ## Tutorial
 	    
 ___
+#### test1.py file
 
 >  1. comments - For python, used with a '#' symbol or 3 quotes nesting your comment:
 
@@ -17,6 +18,16 @@ ___
   
 * helps keep code organized
 
+'''python
+
+#This is a comment
+
+"""
+This is
+a multi line
+comment
+"""
+'''
 
 > 2. prints - A function Used to send data to the console/terminal/screen:
 
@@ -31,31 +42,31 @@ print(24)
 
 ```
 
-* FROM NOW ON WE WILL USE PRINT TO DISPLAY OUR VALUES TO THE CONSOLE 
+## FROM NOW ON WE WILL USE PRINT TO DISPLAY OUR VALUES TO THE CONSOLE 
 
 
 > 3. Strings, Integers , Floats , and Booleans - Data Types:
 
 
-* 3a.) String{a sequence of characters within quotes}
+* 3a.) String{a sequence of characters within quotes} ...I will print this out below
 ```python
 print('This is a String' , "I'm a string 2")
 ```
-* 3b.) Integer{regular number} solid numbers only(NO COMMAS)
+* 3b.) Integer{regular number} solid numbers only(NO COMMAS)...I will print this out below
 ```python
 print(24 or 2400)
 ```
-* 3c.) Float{decimals}
+* 3c.) Float{decimals}...I will print this out below
 ```python
 print(5.1 or 33.33)
 ```
-* 3d.) Boolean{One of the two values - True or False}
+* 3d.) Boolean{One of the two values - True or False}...I will print this out below
 ```python
 print(True or False)
 ```
 ___
 
-> step 2: Try writing the syntax yourself below where you see the following lines of comments:
+> 4. Try writing the syntax yourself in the ~test1.py~ file:
 
 ```python
 # Try it your self......
@@ -100,6 +111,55 @@ of the ones you want to learn in a string...
 
 
 ```
+
+___
+#### test2.py file
+
+
+
+> 1. Variables - A place to store values for your code to manipulate, for the computer to process, etc.:
+'''python
+you_tube = 'ThisGuyCodez'
+
+print('here is a variable ---->',you_tube) 
+'''			
+> 2. String concatenation - more than one strings added together[Using the 'Format method']:
+'''python
+name = 'Guy'
+you_tube = 'ThisGuyCodez'
+lang = 'Python'
+
+concat = f"{name} talks about	{lang} on his YT channel '{you_tube}'"
+# -- OR --
+concat = "{} talks about	{} on his YT channel '{}'".format(name,lang,you_tube)
+			
+print(concat)
+'''
+
+> 3. Inputs - Function used to get data from the user:
+'''python
+"""
+Prompt the user by typing in 
+the question the user should see
+within the parentheses of the function as a string...
+"""
+
+input("Whats Your Name? ")	
+
+"""		
+-On the interacting side of things 
+(in this case the console/terminal)
+you would be able to actually type in your name..
+
+>>> Whats Your Name? Guy
+
+Even so, since we did not save it to a "Variable", there is
+nothing we can do with it. Try what we went over so far yourself below
+and remember to save your inputs into variables.
+"""
+
+'''		
+
 
 ___
 
