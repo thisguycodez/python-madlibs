@@ -112,12 +112,15 @@ ___
 
 
 > 1. Variables - A place to store values for your code to manipulate, for the computer to process, etc.:
+
 '''python
 you_tube = 'ThisGuyCodez'
 
 print('here is a variable ---->',you_tube) 
-'''			
+'''	
+
 > 2. String concatenation - more than one strings added together[Using the 'Format method']:
+
 '''python
 name = 'Guy'
 you_tube = 'ThisGuyCodez'
@@ -128,9 +131,11 @@ concat = f"{name} talks about	{lang} on his YT channel '{you_tube}'"
 concat = "{} talks about	{} on his YT channel '{}'".format(name,lang,you_tube)
 			
 print(concat)
+
 '''
 
 > 3. Inputs - Function used to get data from the user:
+
 '''python
 """
 Prompt the user by typing in 
