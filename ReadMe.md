@@ -126,9 +126,9 @@ name = 'Guy'
 you_tube = 'ThisGuyCodez'
 lang = 'Python'
 
-concat = f"{name} talks about	{lang} on his YT channel '{you_tube}'"
+concat = f"{name} talks about {lang} on his YT channel '{you_tube}'"
 # -- OR --
-concat = "{} talks about	{} on his YT channel '{}'".format(name,lang,you_tube)
+concat = "{} talks about {} on his YT channel '{}'".format(name,lang,you_tube)
 			
 print(concat)
 
