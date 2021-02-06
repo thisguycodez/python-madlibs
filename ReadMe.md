@@ -1,7 +1,7 @@
 # Learning Python With Projects (Mad libs) 
 > Syntax - Comments, Prints, Variables, Strings, Integers, String Concatenations, and Inputs.
 
->https://youtu.be/Wtz_jYVf2p0
+> https://youtu.be/XSpCbQb0s5o
 
 
 ## Tutorial
