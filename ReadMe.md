@@ -22,10 +22,10 @@ ___
 
 #This is a comment
 
-"""This is
+'''This is
 a multi line
 comment
-"""
+'''
 
 '''
 
